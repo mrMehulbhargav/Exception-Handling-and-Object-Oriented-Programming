@@ -37,8 +37,5 @@ In this part, I've implemented a **Vehicle Management System** with a base class
    java VehicleManagementSystem
    ```
 
-## Screenshots
-(You can insert your screenshots of the outputs here)
-
 ## Conclusion
 This project demonstrates effective error handling using custom exceptions and the application of OOP concepts in Java. It simulates real-world scenarios like a calculator with various arithmetic operations and a vehicle management system with cars and motorcycles.
